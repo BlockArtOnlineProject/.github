@@ -2,6 +2,9 @@
 <h1 align="center">
     The Block Art Online Project
 </h1>
+
+![The Block Art Online Project banner](https://github.com/BlockArtOnlineProject/.github/raw/main/baobanner.png)
+
 <p align="center">
     <br>
     <i>This, might be a game, but it isn't something you play.</i>
