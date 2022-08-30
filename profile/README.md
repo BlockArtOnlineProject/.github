@@ -3,7 +3,7 @@
     The Block Art Online Project
 </h1>
 
-![The Block Art Online Project banner](https://github.com/BlockArtOnlineProject/.github/raw/main/baobanner.png)
+![The Block Art Online Project banner](https://github.com/thebaoproject/.github/raw/main/baobanner.png)
 
 <p align="center">
     <br>
@@ -22,7 +22,7 @@ Mục tiêu khá lớn, đó là lí do chúng tôi cần sự trợ giúp của
 Chúng tôi cơ bản là những thằng weeb nghiện <strike>hent</strike> anime, đặc biệt là Sword Art Online.
 
 <h3>📑 Các dự án</h3>
-<li>Plugin <a href="https://github.com/BlockArtOnlineProject/BlockArtOnline">BlockArtOnline</a></li>
+<li>Plugin <a href="https://github.com/thebaoproject/TheSeed">TheSeed</a></li>
 
 <h3>✨ Tôi muốn đóng góp!</h3>
 <strike>Có cái khố d-</strike> Bạn có thể đóng góp vào dự án (nếu như bạn cũng nghiện Sword Art Online như chúng tôi).  
